@@ -105,7 +105,7 @@ td {
 
 /*Codes for mobile phones*/
 
-@media screen and (max-width: 375px) { /*media queries're put after the original codes. I've been trying to make this code work.*/
+@media screen and (max-width: 480px) { /*media queries're put after the original codes. I've been trying to make this code work.*/
   
   main {
   	width: 100%;
