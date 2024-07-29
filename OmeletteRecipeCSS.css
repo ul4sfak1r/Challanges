@@ -109,6 +109,7 @@ td {
   
   main {
   	width: 100%;
+	max-width: 640px;
   	margin: 0;
   	padding: 0;
   	border-radius: 0;
